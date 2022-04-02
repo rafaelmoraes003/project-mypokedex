@@ -10,3 +10,5 @@ criar os cards, bem como funcionalidades do ES6.
 pokémons salva até ela ser deletada.
 
 :white_check_mark: Na estlização, foi usado Flexbox e o framework Bootstrap.
+
+### - O site se encontra nesse [link](https://rafaelmoraes003.github.io/project-mypokedex/)
