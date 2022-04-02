@@ -1,0 +1,57 @@
+body {
+  /* background-image: url(https://wallpapercave.com/wp/wp10311649.png); */
+  background-image: url(https://i.pinimg.com/originals/7c/67/8b/7c678bffd31dc92dc80d95d471b0e83d.png);
+}
+
+h1 {
+  font-size: 45px;
+  font-family: 'Pokemon Solid', sans-serif;
+  color: yellow;
+  -webkit-text-stroke-width: 2px; /* largura da borda */
+  -webkit-text-stroke-color: blue; /* cor da borda */
+  margin: 15px 0
+}
+
+h2 {
+  font-family: 'Pokemon Solid', sans-serif;
+  color: white;
+  -webkit-text-stroke-width: 2px; /* largura da borda */
+  -webkit-text-stroke-color: black; /* cor da borda */
+}
+
+h1,h2 {
+  text-align: center;
+}
+
+.card-holder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px;
+  border: 3px solid black;
+  width: 200px;
+  margin: 15px;
+  border-radius: 15px;
+  border-color: rebeccapurple;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+input {
+  height: 40px;
+  margin-left: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+#pokedex-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  margin-left: 4px;
+}
+
